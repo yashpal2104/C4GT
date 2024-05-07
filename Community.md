@@ -56,3 +56,20 @@
   </tr>
 </table>
 
+ <td>Name</td>
+    <td>Yash Pal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/yashpal2104</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td> https://www.linkedin.com/in/yash-pal-88621224b/ </td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Visvesvaraya National Institute of Technology(VNIT), Nagpur</td>
+  </tr>
+</table>
+
